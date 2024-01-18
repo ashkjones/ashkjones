@@ -1,5 +1,5 @@
 ### Hi Y'all 👋
-I am Ashley Jones, a CS student taking junior level courses. My prefered pronouns are she/her. My favorite language to do school work in is Java because I like rules and love Javadoc.
+I am Ashley Jones, a senior studying computer science. My prefered pronouns are she/her.
 
 <!--
 **ashkjones/ashkjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
