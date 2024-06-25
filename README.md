@@ -1,4 +1,4 @@
-## Some Things I've Use
+## Some Things I've Used
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
@@ -25,7 +25,7 @@ I also don't really care which framework I use. Learning is fun, and I am capabl
 
 ## Some Projects I've Worked On
 **Optimizing Safety in Aviation** (Current)
-- Work with a group of graduate and undergraduate researchers in the [D2 Lab](https://home.csulb.edu/~bfu/lab.html) at CSULB on a Boeing contracted research project that investigates the use of eye-trackers in airplane cockpits.
+- Work with a group of graduate and undergraduate researchers from the [D2 Lab](https://home.csulb.edu/~bfu/lab.html) at CSULB on a Boeing contracted research project that investigates the use of eye-trackers in airplane cockpits.
 - Analyze gaze characteristics (ex. fixation duration, saccade velocity, convex hull) using traditional statistical analysis and machine learning.
 - Checkout some of the code [here](https://github.com/TheD2Lab).
 
