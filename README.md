@@ -1,6 +1,3 @@
-## Hi Y'all 👋
-I am Ashley Jones, a computer science researcher. My preferred pronouns are she/her.
-
 ## Some Things I've Use
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
