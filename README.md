@@ -19,7 +19,7 @@
 ..but I am down to learn more. 
 
 ## Do I have a preferred programming language?
-No, I think all major languages are fine. However, I refuse to start any new project in JS because TypeScripts is superior (I like rules!!!). I'll maintain and work on existing JS projects if asked nicely, though 😸
+No, I think all major languages are fine. However, I'd pick TypeScript over JavaScript any day.
 
 I also don't really care which framework I use. Learning is fun, and I am capable of reading the documentation.
 
