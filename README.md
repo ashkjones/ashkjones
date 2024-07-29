@@ -14,6 +14,7 @@
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Apache Maven"	src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white" />
 </p>
 
 ..but I am down to learn more. 
